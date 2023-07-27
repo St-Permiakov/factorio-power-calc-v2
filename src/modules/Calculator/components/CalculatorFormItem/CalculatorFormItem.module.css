@@ -1,0 +1,5 @@
+.root {
+  display: flex;
+  gap: calc(var(--step) * 2);
+  align-items: baseline;
+}

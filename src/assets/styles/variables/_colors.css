@@ -1,0 +1,10 @@
+:root {
+  --color-black: hsl(300, 3%, 5%);
+  --color-gray-dark: hsl(300, 3%, 14%);
+  --color-gray: hsl(300, 2%, 22%);
+  --color-gray-light: hsl(0, 0%, 56%);
+
+  --color-orange: #FF9F1C;
+  --color-red: #FF4040;
+  --color-green: #00C48C;
+}

@@ -1,0 +1,7 @@
+.root {}
+
+.label::after {
+  content: ": "
+}
+
+.value {}

@@ -1,0 +1,11 @@
+.root {
+  display: flex;
+  padding: 0.5rem var(--x-offset);
+  background-color: var(--color-gray-dark);
+}
+
+.copyright {
+  margin-left: auto;
+  font-style: italic;
+  font-size: 0.8rem;
+}

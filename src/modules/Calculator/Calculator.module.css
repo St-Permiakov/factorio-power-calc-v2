@@ -1,0 +1,15 @@
+.root {
+  position: relative;
+}
+
+.section {
+}
+
+.result {
+  position: sticky;
+  top: 0;
+}
+
+.form {
+  padding: calc(var(--step) * 4) var(--x-offset);
+}

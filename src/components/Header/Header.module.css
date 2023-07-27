@@ -1,0 +1,8 @@
+.root {
+  padding: 10px var(--x-offset);
+  background-color: var(--color-gray-dark);
+}
+
+.title {
+  color: var(--color-orange);
+}

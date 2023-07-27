@@ -1,0 +1,4 @@
+:root {
+  --step: 0.25rem;
+  --x-offset: calc(var(--step) * 5);
+}
